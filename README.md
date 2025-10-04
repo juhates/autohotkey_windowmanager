@@ -1,2 +1,1 @@
-# autohotkey_windowmanager
-Autohotkey script for window management
+AutoHotkey v2 script for window snapping on Windows 11
