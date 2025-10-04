@@ -1,1 +1,1 @@
-AutoHotkey v2 script for window snapping on Windows 11
+AutoHotkey script for window snapping
