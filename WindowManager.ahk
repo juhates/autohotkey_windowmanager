@@ -4,8 +4,8 @@
 
 ; Arrays for sizes
 global centerSizes := [0.20, 0.30, 0.5]
-global leftSizes   := [0.20, 0.30, 0.5]
-global rightSizes  := [0.20, 0.30, 0.5]
+global leftSizes   := [0.25, 0.5]
+global rightSizes  := [0.25, 0.5]
 
 ; Index trackers
 global centerIndex := 1
