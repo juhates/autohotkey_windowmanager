@@ -3,9 +3,9 @@
 !+w::WinMaximize("A")
 
 ; Arrays for sizes
-global centerSizes := [0.20, 0.30, 0.5]
-global leftSizes   := [0.5]
-global rightSizes  := [0.5]
+global centerSizes := [0.33, 0.5, 0.75]
+global leftSizes   := [0.33, 0.5]
+global rightSizes  := [0.33, 0.5]
 
 ; Index trackers
 global centerIndex := 1
